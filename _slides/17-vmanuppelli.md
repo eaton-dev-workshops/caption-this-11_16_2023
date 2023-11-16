@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to VINCE's slide deck!"
+title: "Welcome to our slide deck!"
 ---
 
-Caption here
+VINNY THE KNIFE WAS HERE!
 
 ![cherryontop-o-cat](https://octodex.github.com/images/cherryontop-o-cat.png)
 {: .center}
